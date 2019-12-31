@@ -1,2 +1,2 @@
 # Orbital-Prediction
-2-Body Orbital Prediction of the Sun and the Earth in Python
+2-Body Orbital Prediction of Earth's Orbit around the Sun through Numerical Methods in Python
